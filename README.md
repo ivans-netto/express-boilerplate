@@ -1,2 +1,2 @@
-# node-express-boilerplate
-:checkered_flag: Nodejs + expressjs boilerplate
+# Express-boilerplate
+:checkered_flag: Expressjs boilerplate
